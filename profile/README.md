@@ -7,4 +7,4 @@ Have common logic shared across bots working on diffent platforms but do not loo
 
 # Modules & Packages
 
-- github.com/bots-go-framework/botsfw
+- [github.com/bots-go-framework/botsfw](https://github.com/bots-go-framework/botsfw)
