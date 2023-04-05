@@ -33,7 +33,7 @@ This bot API clients can be used directly without Bots Go Framework.
 
 # 🔥 Used by
 Submit a PR for adding a link here if you use Dalgo in your open source project.
-## Games
+## 🎲 Games
 - ⚫⚪ [**Reversi** game](https://github.com/prizarena/reversi) - open source game.
 - ✖️⭕ [**Bidding Tic-Tac-Toe**](https://github.com/prizarena/bidding-tictactoe) - open source game.
 - 📃✂️ [**Rock-Paper-Scissors**](https://github.com/prizarena/rock-paper-scissors) - open source game.
