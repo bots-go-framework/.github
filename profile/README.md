@@ -1,4 +1,4 @@
-# bots-go-framework
+# [`bots-go-framework`](https://github.com/bots-go-framework)
 
 Golang framework & plugins to build multilingual bots for messengers (_Telegram, FB Messenger, Skype, Line, Kik, WeChat_)
 hosted on AppEngine, Amazon, Azure, Heroku or standalone.
