@@ -7,7 +7,14 @@ Have common logic shared across bots working on diffent platforms but do not loo
 
 ## Modules & Packages
 
-- [github.com/bots-go-framework/botsfw](https://github.com/bots-go-framework/botsfw)
+- [`github.com/bots-go-framework/botsfw`](https://github.com/bots-go-framework/botsfw) - core package
+
+### Adapters to specific messengers
+| Platform | Module   |
+|----------|----------|
+| Telegram            | [`github.com/bots-go-framework/bots-fw-telegram`](github.com/bots-go-framework/bots-fw-telegram) |
+| Facebook Messenger  | [`github.com/bots-go-framework/bots-fw-fbm`](github.com/bots-go-framework/bots-fw-viber) |
+| Viber               | [`github.com/bots-go-framework/bots-fw-viber`](github.com/bots-go-framework/bots-fw-telegram) |
 
 ## Dependencies
 
