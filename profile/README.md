@@ -10,7 +10,7 @@ Have common logic shared across bots working on diffent platforms but do not loo
 - 🤖 [`github.com/bots-go-framework/bots-fw`](https://github.com/bots-go-framework/bots-fw) - core package
 
 ### 🔌 Adapters to specific messengers
-You would want to use this if you want to implement UI specific to target bot platform.
+You would need to use this if you want to implement UI/features specific to some bot platform.
 
 | Platform | Module   |
 |----------|----------|
