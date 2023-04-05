@@ -7,7 +7,7 @@ Have common logic shared across bots working on diffent platforms but do not loo
 
 ## 📦 Modules & Packages
 
-- [`github.com/bots-go-framework/botsfw`](https://github.com/bots-go-framework/botsfw) - core package
+- 🤖 [`github.com/bots-go-framework/botsfw`](https://github.com/bots-go-framework/botsfw) - core package
 
 ### 🔌 Adapters to specific messengers
 You would want to use this if you want to implement UI specific to target bot platform.
