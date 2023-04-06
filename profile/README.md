@@ -14,18 +14,18 @@ You would need to use this if you want to implement UI/features specific to some
 
 | Platform | Module   |
 |----------|----------|
-| Telegram            | [`github.com/bots-go-framework/bots-fw-telegram`](github.com/bots-go-framework/bots-fw-telegram) |
-| Facebook Messenger  | [`github.com/bots-go-framework/bots-fw-fbm`](github.com/bots-go-framework/bots-fw-viber) |
-| Viber               | [`github.com/bots-go-framework/bots-fw-viber`](github.com/bots-go-framework/bots-fw-telegram) |
+| Telegram            | [`github.com/bots-go-framework/bots-fw-telegram`](https://github.com/bots-go-framework/bots-fw-telegram) |
+| Facebook Messenger  | [`github.com/bots-go-framework/bots-fw-fbm`](https://github.com/bots-go-framework/bots-fw-viber) |
+| Viber               | [`github.com/bots-go-framework/bots-fw-viber`](https://github.com/bots-go-framework/bots-fw-telegram) |
 
 ### 🔛 Bot API clients
 This bot API clients can be used directly without Bots Go Framework.
 
 | Platform | Module   |
 |----------|----------|
-| Telegram            | [`github.com/bots-go-framework/bots-api-telegram`](github.com/bots-go-framework/bots-api-telegram) |
-| Facebook Messenger  | [`github.com/bots-go-framework/bots-api-fbm`](github.com/bots-go-framework/bots-api-viber) |
-| Viber               | [`github.com/bots-go-framework/bots-api-viber`](github.com/bots-go-framework/bots-api-telegram) |
+| Telegram            | [`github.com/bots-go-framework/bots-api-telegram`](https://github.com/bots-go-framework/bots-api-telegram) |
+| Facebook Messenger  | [`github.com/bots-go-framework/bots-api-fbm`](https://github.com/bots-go-framework/bots-api-viber) |
+| Viber               | [`github.com/bots-go-framework/bots-api-viber`](https://github.com/bots-go-framework/bots-api-telegram) |
 
 ## 💾 Datastores
 - [`github.com/bots-go-framework/bots-fw-dalgo`](https://github.com/bots-go-framework/bots-fw-dalgo) - this is a datastores provider that allows your to persist bot/chat state to any DB supported by Dalgo.
