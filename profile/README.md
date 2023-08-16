@@ -27,9 +27,6 @@ This bot API clients can be used directly without Bots Go Framework.
 | Facebook Messenger  | [`github.com/bots-go-framework/bots-api-fbm`](https://github.com/bots-go-framework/bots-api-fbm) |
 | Viber               | [`github.com/bots-go-framework/bots-api-viber`](https://github.com/bots-go-framework/bots-api-viber) |
 
-## 💾 Datastores
-- [`github.com/bots-go-framework/bots-fw-dalgo`](https://github.com/bots-go-framework/bots-fw-dalgo) - this is a datastores provider that allows your to persist bot/chat state to any DB supported by Dalgo.
-
 ## 🙏 Dependencies
 
 - [`github.com/dal-go`](https://github.com/dal-go) - Database Abstraction Layer in GO language
