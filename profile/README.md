@@ -33,6 +33,8 @@ This bot API clients can be used directly without Bots Go Framework.
 
 # 🔥 Used by
 Submit a PR for adding a link here if you use Bots Go Framework in your open source project.
+## Socical
+- [https://t.me/ToGetheredBot] - simple and smart planning RSVP assistant for meeting up with friends, organising group activities, or just letting others know where you'll be. Whether it's kitesurfing at the beach, playing street basketball, or planning a casual meetup, ToGethered makes coordination effortless.
 ## 🎲 Games
 - ⚫⚪ [**Reversi** game](https://github.com/prizarena/reversi) - open source game.
 - ✖️⭕ [**Bidding Tic-Tac-Toe**](https://github.com/prizarena/bidding-tictactoe) - open source game.
